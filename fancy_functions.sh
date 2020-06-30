@@ -1,0 +1,5 @@
+~/.bashrc
+function gco
+{
+    
+}
