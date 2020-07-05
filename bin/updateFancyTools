@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [[ -d "/home/dooshina/PSL7_TD/fancy_tools/bin" ]]
+then
+{
+    echo "Le dossier bin existe !"
+}
+else
+{
+    mkdir /home/dooshina/PSL7_TD/fancy_tools/bin
+}
+fi
+
